@@ -27,10 +27,12 @@ The goal of this project was to deploy a static website on **Amazon S3**, config
 
 ## 📁 Project Structure
 
+<pre>
 AWS-S3-Static-Site/
 ├── index.html
 ├── style.css
 └── README.md
+</pre>
 
 ## 📎 Notes
 
